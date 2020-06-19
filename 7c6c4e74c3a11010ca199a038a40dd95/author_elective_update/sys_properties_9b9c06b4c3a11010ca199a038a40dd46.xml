@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>sn_sys_properties.test</name>
+        <read_roles/>
+        <suffix>test</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 14:53:45</sys_created_on>
+        <sys_id>9b9c06b4c3a11010ca199a038a40dd46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_sys_properties.test</sys_name>
+        <sys_package display_value="sys_properties" source="sn_sys_properties">7c6c4e74c3a11010ca199a038a40dd95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sys_properties">7c6c4e74c3a11010ca199a038a40dd95</sys_scope>
+        <sys_update_name>sys_properties_9b9c06b4c3a11010ca199a038a40dd46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 14:53:45</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=9b9c06b4c3a11010ca199a038a40dd46"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="sys_properties">7c6c4e74c3a11010ca199a038a40dd95</application>
+        <file_path/>
+        <instance_id>736b58a8692110108bc5834c59c6a877</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_properties_9b9c06b4c3a11010ca199a038a40dd46</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>sn_sys_properties.test</name><read_roles/><suffix>test</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-19 14:53:45</sys_created_on><sys_id>9b9c06b4c3a11010ca199a038a40dd46</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_sys_properties.test</sys_name><sys_package display_value="sys_properties" source="sn_sys_properties">7c6c4e74c3a11010ca199a038a40dd95</sys_package><sys_policy/><sys_scope display_value="sys_properties">7c6c4e74c3a11010ca199a038a40dd95</sys_scope><sys_update_name>sys_properties_9b9c06b4c3a11010ca199a038a40dd46</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-19 14:53:45</sys_updated_on><type>string</type><value/><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=9b9c06b4c3a11010ca199a038a40dd46"/></record_update>]]></payload>
+        <payload_hash>-915602242</payload_hash>
+        <record_name>sn_sys_properties.test</record_name>
+        <reverted_from/>
+        <source>39ac06b4c3a11010ca199a038a40ddd9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 14:53:45</sys_created_on>
+        <sys_id>71ac06b4c3a11010ca199a038a40ddde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172cd1243dc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 14:53:45</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>b5ac06b45ba110109662a07b5b8757dd</update_guid>
+        <update_guid_history>b5ac06b45ba110109662a07b5b8757dd:-915602242</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 14:55:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>2b8c4b1dcfe54dc598e9a6befc3abc09</sys_id>
+        <sys_metadata>9b9c06b4c3a11010ca199a038a40dd46</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_sys_properties.test</sys_name>
+        <sys_package display_value="sys_properties" source="sn_sys_properties">7c6c4e74c3a11010ca199a038a40dd95</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="sys_properties">7c6c4e74c3a11010ca199a038a40dd95</sys_scope>
+        <sys_scope_delete display_value="">2f8ab28b569a4078b98ff2d0b637dfe1</sys_scope_delete>
+        <sys_update_name>sys_properties_9b9c06b4c3a11010ca199a038a40dd46</sys_update_name>
+        <sys_update_version display_value="sys_properties_9b9c06b4c3a11010ca199a038a40dd46">71ac06b4c3a11010ca199a038a40ddde</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 14:55:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
